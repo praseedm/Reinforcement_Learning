@@ -110,7 +110,7 @@ def printq():
 	
 def env_change():
     while True:
-        time.sleep(6)		     
+        time.sleep(7)		     
         ma_Gui.env_change()
 
 def run():
@@ -148,7 +148,7 @@ def run():
         alpha = pow(t, -0.1)
 
         # SLEEP.
-        time.sleep(0.03)
+        time.sleep(0.04)
         
 
 def magent():
@@ -190,7 +190,7 @@ def magent():
         alpha = pow(t, -0.1)
 
         # SLEEP.
-        time.sleep(0.01)
+        time.sleep(0.006)
         
         
 

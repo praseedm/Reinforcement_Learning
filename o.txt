@@ -1,0 +1,83 @@
+Initialize
+
+Goal! :  5.9
+
+Iteration =  1
+Goal! :  6.2
+
+Iteration =  2
+Goal! :  8.0
+
+Iteration =  3
+Goal! :  7.5
+
+Iteration =  4
+Goal! :  8.5
+
+Iteration =  5
+Goal! :  9.2
+
+Iteration =  6
+Goal! :  9.6
+
+Iteration =  7
+Goal! :  9.1
+
+Iteration =  8
+Goal! :  9.2
+
+Iteration =  9
+Goal! :  9.9
+
+Iteration =  10
+Goal! :  10.2
+
+Iteration =  11
+Goal! :  9.4
+
+Iteration =  12
+Goal! :  10.1
+
+Iteration =  13
+Goal! :  10.3
+
+Iteration =  14
+Goal! :  10.3
+
+Iteration =  15
+Goal! :  10.3
+
+Iteration =  16
+Goal! :  10.3
+
+Iteration =  17
+Goal! :  10.3
+
+Iteration =  18
+Goal! :  10.3
+
+Iteration =  19
+Goal! :  10.3
+
+Iteration =  20
+Goal! :  10.3
+
+Iteration =  21
+Goal! :  10.3
+
+Iteration =  22
+Goal! :  10.3
+
+Iteration =  23
+Goal! :  10.3
+
+Iteration =  24
+Goal! :  10.3
+
+Iteration =  25
+Goal! :  10.3
+
+Iteration =  26
+Goal! :  10.3
+
+Iteration =  27
