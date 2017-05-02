@@ -5,6 +5,8 @@ import time
 import csv
 import pickle
 import os
+import sys
+import signal
 
 discount = 0.8
 actions = Gui.actions
@@ -100,8 +102,6 @@ def run():
     count = 0
     ff = 0
     
-    printq()
-    
     while True:
     	i= 0
     	ff += 1
@@ -115,7 +115,6 @@ def run():
         # Update Q
         max_act, max_val = max_Q(s2)
         inc_Q(s, a, alpha, r + discount * max_val)
-        printq()
 
         #  restarted
         t += 1.0
@@ -136,6 +135,13 @@ def run():
         time.sleep(0.01)
         
 
+#ctrl+C interrupt handler
+def signal_handler(signal, frame):
+    #print 'You pressed Ctrl+C!'
+    printq()
+    sys.exit(0)
+
+signal.signal(signal.SIGINT, signal_handler)
 
 t = threading.Thread(target=run)
 t.daemon = True
