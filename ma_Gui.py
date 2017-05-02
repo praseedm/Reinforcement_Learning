@@ -1,5 +1,6 @@
 
 import time
+import random
 from Tkinter import *
 master = Tk()
 
@@ -17,15 +18,22 @@ restart = False
 ma_restart = False
 walk_reward = -0.1
 
+wall_count = 5
+walli = 5
 walls_gui = []
 dynamic_walls = {0:[(1, 1), (1, 2), (2, 2) , (3,0) , (4,2) ], 
-                 1: [(1, 1), (1,3), (1,4), (1, 2), (2, 2) , (3,0) , (4,2)]}
+                 1: [(1, 1), (1,3), (1,4), (1, 2), (2, 2) , (3,0) , (4,2)],
+                 2:[(0, 2), (1, 2), (2, 2), (2,3), (2,1)],
+                 3:[(1, 1), (1, 2), (2, 1), (2,4), (3,4), (3,3)],
+                 4:[(0, 2), (0, 3), (1, 3), (2,3), (3,1), (4,1)],
+                 5:[(1,1), (1, 2), (1, 3), (2, 3), (2,2), (3,3), (3,1)]}
 
-walls = dynamic_walls[0]
+walls = dynamic_walls[walli]
 specials = [(4, 0, "red", 10)]
 
-
-
+#Toggle agents visibility
+show_ma = False 
+show_solver = True
 
 
 def render_grid():
@@ -43,14 +51,17 @@ def render_grid():
 render_grid()
 
 def env_change():
-    global walls, walls_gui
+    global walls, walls_gui, walli
     for gui in walls_gui :
         board.delete(gui)
-    walls =  dynamic_walls[1]
+
+    walli = random.randint(0,wall_count) 
+    walls =  dynamic_walls[walli]
     for (i, j) in walls:
         w=board.create_rectangle(i*Width, j*Width, (i+1)*Width, (j+1)*Width, fill="black", width=1)
         walls_gui.append(w)   
-
+    restart = True
+    ma_restart =True
 
 
 def try_move(dx, dy):
@@ -61,7 +72,8 @@ def try_move(dx, dy):
     new_y = player[1] + dy
     score += walk_reward
     if (new_x >= 0) and (new_x < x) and (new_y >= 0) and (new_y < y) and not ((new_x, new_y) in walls):
-        board.coords(agent, new_x*Width+Width*2/10, new_y*Width+Width*2/10, new_x*Width+Width*8/10, new_y*Width+Width*8/10)
+        if(show_solver):
+         board.coords(agent, new_x*Width+Width*2/10, new_y*Width+Width*2/10, new_x*Width+Width*8/10, new_y*Width+Width*8/10)
         player = (new_x, new_y)
     for (i, j, c, w) in specials:
         if new_x == i and new_y == j:
@@ -84,14 +96,15 @@ def ma_try_move(dx, dy):
     new_y = ma_player[1] + dy
     ma_score += walk_reward
     if (new_x >= 0) and (new_x < x) and (new_y >= 0) and (new_y < y) and not ((new_x, new_y) in walls):
-        board.coords(ma_agent, new_x*Width+Width*2/10, new_y*Width+Width*2/10, new_x*Width+Width*8/10, new_y*Width+Width*8/10)
+        if(show_ma):
+            board.coords(ma_agent, new_x*Width+Width*2/10, new_y*Width+Width*2/10, new_x*Width+Width*8/10, new_y*Width+Width*8/10)
         ma_player = (new_x, new_y)
     for (i, j, c, w) in specials:
         if new_x == i and new_y == j:
             ma_score -= walk_reward
             ma_score += w
-            if ma_score > 0:
-                print "2nd agent Goal! : ", ma_score
+            '''if ma_score > 0:
+                print "2nd agent Goal! : ", ma_score'''
            # else:
             #    print "Goal! : ", score
             ma_restart = True
@@ -119,14 +132,16 @@ def ma_restart_game():
     ma_player = (0, y-1)
     ma_score = 1
     ma_restart = False
-    board.coords(ma_agent, ma_player[0]*Width+Width*2/10, ma_player[1]*Width+Width*2/10, ma_player[0]*Width+Width*8/10, ma_player[1]*Width+Width*8/10)
+    if(show_ma):
+        board.coords(ma_agent, ma_player[0]*Width+Width*2/10, ma_player[1]*Width+Width*2/10, ma_player[0]*Width+Width*8/10, ma_player[1]*Width+Width*8/10)
 
 def restart_game():
     global player, score, agent, restart
     player = (0, y-1)
     score = 1
     restart = False
-    board.coords(agent, player[0]*Width+Width*2/10, player[1]*Width+Width*2/10, player[0]*Width+Width*8/10, player[1]*Width+Width*8/10)
+    if(show_solver):
+     board.coords(agent, player[0]*Width+Width*2/10, player[1]*Width+Width*2/10, player[0]*Width+Width*8/10, player[1]*Width+Width*8/10)
 
 def has_restarted():
     return restart
@@ -139,13 +154,17 @@ master.bind("<Down>", call_down)
 master.bind("<Right>", call_right)
 master.bind("<Left>", call_left)
 
-agent = board.create_rectangle(player[0]*Width+Width*2/10, player[1]*Width+Width*2/10,
+if(show_solver) :
+    agent = board.create_rectangle(player[0]*Width+Width*2/10, player[1]*Width+Width*2/10,
                             player[0]*Width+Width*8/10, player[1]*Width+Width*8/10, fill="yellow", width=1, tag="agent")
 
-ma_agent = board.create_rectangle(player[0]*Width+Width*2/10, player[1]*Width+Width*2/10,
+if(show_ma):
+    ma_agent = board.create_rectangle(player[0]*Width+Width*2/10, player[1]*Width+Width*2/10,
                             player[0]*Width+Width*8/10, player[1]*Width+Width*8/10, fill="blue", width=1, tag="agent")
 
 board.grid(row=0, column=0)
+
+
 
 
 def start_game():

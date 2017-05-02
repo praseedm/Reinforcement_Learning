@@ -109,8 +109,10 @@ def printq():
 		writer.writerow([i,Q[i]])
 	target.close();
 	
-		     
-
+def env_change():
+    while True:
+        time.sleep(6)		     
+        ma_Gui.env_change()
 
 def run():
     global discount
@@ -141,16 +143,13 @@ def run():
         	ma_Gui.restart_game()
         	time.sleep(0.01)
         	t = 1.0
-        	print "\nIteration = " , count
-        	'''if count == 2 :
-        		break'''
-            
+        	print "\nIteration = " , count         
 
         # Update the learning rate
         alpha = pow(t, -0.1)
 
         # SLEEP.
-        time.sleep(0.01)
+        time.sleep(0.03)
         
 
 def magent():
@@ -185,19 +184,15 @@ def magent():
             ma_Gui.ma_restart_game()
             time.sleep(0.01)
             t = 1.0
-            print "\nIteration = " , count
-            '''if count == 2 :
-                break'''
-            
+            #print "\nIteration = " , count
+                       
 
         # Update the learning rate
         alpha = pow(t, -0.1)
 
         # SLEEP.
-        time.sleep(0.1)
-        if(temp == 1):
-           #ma_Gui.env_change()
-            temp = 1
+        time.sleep(0.01)
+        
         
 
 #ctrl+C interrupt handler
@@ -208,6 +203,10 @@ def signal_handler(signal, frame):
 
 signal.signal(signal.SIGINT, signal_handler)
 
+
+t_env = threading.Thread(target = env_change)
+t_env.daemon = True
+
 t_multi = threading.Thread(target=magent)
 t_multi.daemon = True
 
@@ -215,4 +214,8 @@ t = threading.Thread(target=run)
 t.daemon = True
 t.start()
 t_multi.start()
+t_env.start()
+
 ma_Gui.start_game()
+
+
