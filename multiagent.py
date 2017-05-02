@@ -160,6 +160,7 @@ def magent():
     t = 1
     count = 0
     explore_C = 0
+    temp = 0
     while True:
         # explore agent
         agent2 = ma_Gui.ma_player
@@ -194,6 +195,10 @@ def magent():
 
         # SLEEP.
         time.sleep(0.1)
+        if(temp == 1):
+           #ma_Gui.env_change()
+            temp = 1
+        
 
 #ctrl+C interrupt handler
 def signal_handler(signal, frame):

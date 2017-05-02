@@ -1,4 +1,5 @@
 
+import time
 from Tkinter import *
 master = Tk()
 
@@ -16,7 +17,11 @@ restart = False
 ma_restart = False
 walk_reward = -0.1
 
-walls = [(1, 1), (1, 2), (2, 2) , (3,0) , (4,2) ]
+walls_gui = []
+dynamic_walls = {0:[(1, 1), (1, 2), (2, 2) , (3,0) , (4,2) ], 
+                 1: [(1, 1), (1,3), (1,4), (1, 2), (2, 2) , (3,0) , (4,2)]}
+
+walls = dynamic_walls[0]
 specials = [(4, 0, "red", 10)]
 
 
@@ -32,11 +37,19 @@ def render_grid():
     for (i, j, c, w) in specials:
         board.create_rectangle(i*Width, j*Width, (i+1)*Width, (j+1)*Width, fill=c, width=1)
     for (i, j) in walls:
-        board.create_rectangle(i*Width, j*Width, (i+1)*Width, (j+1)*Width, fill="black", width=1)
+        w=board.create_rectangle(i*Width, j*Width, (i+1)*Width, (j+1)*Width, fill="black", width=1)
+        walls_gui.append(w)
 
 render_grid()
 
-
+def env_change():
+    global walls, walls_gui
+    for gui in walls_gui :
+        board.delete(gui)
+    walls =  dynamic_walls[1]
+    for (i, j) in walls:
+        w=board.create_rectangle(i*Width, j*Width, (i+1)*Width, (j+1)*Width, fill="black", width=1)
+        walls_gui.append(w)   
 
 
 
