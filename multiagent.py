@@ -29,10 +29,9 @@ def init_Q() :
 		Q[state] = temp
 
 #Read Q
-if os.path.isfile('ma_data.pkl'):
-	pkl_file = open('ma_data.pkl', 'rb')
+if os.path.isfile('ma_Qtable_pkl.pkl'):
+	pkl_file = open('ma_Qtable_pkl.pkl', 'rb')
 	Q = pickle.load(pkl_file) 
-	#print Q[(0,4)] 
 	print "READ\n" 
 else :
 	init_Q()
@@ -101,9 +100,9 @@ def inc_Q(s, a, alpha, inc):
     
     
 def printq():
-	pkl_file = open('ma_data.pkl', 'wb+')
+	pkl_file = open('ma_Qtable_pkl.pkl', 'wb+')
 	pickle.dump(Q, pkl_file)
-	target = open('ma_dict_2.csv', 'wb')
+	target = open('ma_Qtable_csv.csv', 'wb')
 	writer = csv.writer(target)
 	for i in Q.keys():
 		writer.writerow([i,Q[i]])
