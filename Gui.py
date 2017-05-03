@@ -54,7 +54,7 @@ def env_change():
     global walls, walls_gui, walli,start_time,restart,total_move
     for gui in walls_gui :
         board.delete(gui)
-    if(walli == 5):
+    if(walli == wall_count):
         walli = 0
     else :
         walli += 1

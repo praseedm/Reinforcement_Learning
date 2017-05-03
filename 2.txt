@@ -1,0 +1,110 @@
+Initialize
+
+Goal! :  16.3  move :  86  tot_mov : 86  time : 4.91400003433 sec--
+Iteration =  1
+Goal! :  15.1  move :  106  tot_mov : 192  time : 8.72000002861 sec--
+Iteration =  2
+Goal! :  18.1  move :  86  tot_mov : 278  time : 11.8229999542 sec--
+Iteration =  3
+Goal! :  16.7  move :  96  tot_mov : 374  time : 15.2790000439 sec--
+Iteration =  4
+Goal! :  22.8  move :  60  tot_mov : 434  time : 17.2619998455 sec--
+Iteration =  5
+Goal! :  24.6  move :  40  tot_mov : 474  time : 18.8059999943 sec--
+Iteration =  6
+Goal! :  26.9  move :  30  tot_mov : 504  time : 19.8380000591 sec--
+Iteration =  7
+Goal! :  23.4  move :  54  tot_mov : 558  time : 21.6809999943 sec--
+Iteration =  8
+Goal! :  25.3  move :  44  tot_mov : 602  time : 23.0699999332 sec--
+Iteration =  9
+Goal! :  26.3  move :  32  tot_mov : 634  time : 24.243999958 sec--
+Iteration =  10
+Goal! :  28.0  move :  26  tot_mov : 660  time : 24.9949998856 sec--
+Iteration =  11
+Goal! :  27.0  move :  30  tot_mov : 690  time : 25.9879999161 sec--
+Iteration =  12
+Goal! :  26.5  move :  36  tot_mov : 726  time : 27.0920000076 sec--
+Iteration =  13
+Goal! :  28.3  move :  26  tot_mov : 752  time : 27.7679998875 sec--
+Iteration =  14
+Goal! :  28.5  move :  24  tot_mov : 776  time : 28.4070000648 sec--
+Iteration =  15
+Goal! :  27.6  move :  28  tot_mov : 804  time : 29.253000021 sec--
+Iteration =  16
+Goal! :  28.7  move :  24  tot_mov : 828  time : 29.8269999027 sec--
+Iteration =  17
+Goal! :  28.7  move :  24  tot_mov : 852  time : 30.4170000553 sec--
+Iteration =  18
+Goal! :  28.7  move :  24  tot_mov : 876  time : 31.0 sec--
+Iteration =  19
+Goal! :  28.7  move :  24  tot_mov : 900  time : 31.5989999771 sec--
+Iteration =  20
+Goal! :  28.7  move :  24  tot_mov : 924  time : 32.1879999638 sec--
+Iteration =  21
+Goal! :  28.7  move :  24  tot_mov : 948  time : 32.7739999294 sec--
+Iteration =  22
+Goal! :  28.7  move :  24  tot_mov : 972  time : 33.3699998856 sec--
+Iteration =  23
+Goal! :  28.7  move :  24  tot_mov : 996  time : 33.9659998417 sec--
+Iteration =  24
+Goal! :  28.7  move :  24  tot_mov : 1020  time : 34.5509998798 sec--
+Iteration =  25
+Goal! :  28.7  move :  24  tot_mov : 1044  time : 35.1510000229 sec--
+Iteration =  26
+Goal! :  28.7  move :  24  tot_mov : 1068  time : 35.7419998646 sec--
+Iteration =  27
+Goal! :  28.7  move :  24  tot_mov : 1092  time : 36.3389999866 sec--
+Iteration =  28
+Goal! :  28.7  move :  24  tot_mov : 1116  time : 36.9259998798 sec--
+Iteration =  29
+Goal! :  28.7  move :  24  tot_mov : 1140  time : 37.5260000229 sec--
+Iteration =  30
+Goal! :  28.7  move :  24  tot_mov : 1164  time : 38.111000061 sec--
+Iteration =  31
+Goal! :  28.7  move :  24  tot_mov : 1188  time : 38.7309999466 sec--
+Iteration =  32
+Goal! :  28.7  move :  24  tot_mov : 1212  time : 39.3190000057 sec--
+Iteration =  33
+Goal! :  28.7  move :  24  tot_mov : 1236  time : 39.9110000134 sec--
+Iteration =  34
+Goal! :  28.7  move :  24  tot_mov : 1260  time : 40.510999918 sec--
+Iteration =  35
+Goal! :  28.7  move :  24  tot_mov : 1284  time : 41.1029999256 sec--
+Iteration =  36
+Goal! :  28.7  move :  24  tot_mov : 1308  time : 41.6929998398 sec--
+Iteration =  37
+Goal! :  28.7  move :  24  tot_mov : 1332  time : 42.2879998684 sec--
+Iteration =  38
+Goal! :  28.7  move :  24  tot_mov : 1356  time : 42.876999855 sec--
+Iteration =  39
+Goal! :  28.7  move :  24  tot_mov : 1380  time : 43.4630000591 sec--
+Iteration =  40
+Goal! :  28.7  move :  24  tot_mov : 1404  time : 44.0559999943 sec--
+Iteration =  41
+Goal! :  28.7  move :  24  tot_mov : 1428  time : 44.6489999294 sec--
+Iteration =  42
+Goal! :  28.7  move :  24  tot_mov : 1452  time : 45.243999958 sec--
+Iteration =  43
+Goal! :  28.7  move :  24  tot_mov : 1476  time : 45.8399999142 sec--
+Iteration =  44
+Goal! :  28.7  move :  24  tot_mov : 1500  time : 46.4319999218 sec--
+Iteration =  45
+Goal! :  28.7  move :  24  tot_mov : 1524  time : 47.0239999294 sec--
+Iteration =  46
+Goal! :  28.7  move :  24  tot_mov : 1548  time : 47.6210000515 sec--
+Iteration =  47
+Goal! :  28.7  move :  24  tot_mov : 1572  time : 48.2139999866 sec--
+Iteration =  48
+Goal! :  28.7  move :  24  tot_mov : 1596  time : 48.8090000153 sec--
+Iteration =  49
+Goal! :  28.7  move :  24  tot_mov : 1620  time : 49.4110000134 sec--
+Iteration =  50
+Goal! :  28.7  move :  24  tot_mov : 1644  time : 49.9949998856 sec--
+Iteration =  51
+Goal! :  28.7  move :  24  tot_mov : 1668  time : 50.5929999352 sec--
+Iteration =  52
+Goal! :  28.7  move :  24  tot_mov : 1692  time : 51.1759998798 sec--
+Iteration =  53
+Goal! :  28.7  move :  24  tot_mov : 1716  time : 51.7909998894 sec--
+Iteration =  54

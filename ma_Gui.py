@@ -21,14 +21,14 @@ start_time = 0.0
 walk_reward = -0.1
 
 wall_count = 5
-walli = 2
+walli = 5
 walls_gui = []
 dynamic_walls = {0:[(1, 1), (2, 2), (3,0), (4,2), (6,3),(3,4), (4,5)], 
-                 1:[(0, 4), (0, 5), (2,6), (4,5), (3,4),(1,3), (2,3), (6,2), (5,1), (4,1), (3,1)],
+                 4:[(0, 4), (0, 5), (2,6), (4,5), (3,4),(1,3), (2,3), (6,2), (5,1), (4,1), (3,1)],
                  2:[(4, 0), (6,2), (3,3),(3,1), (3,2), (2,6), (1,5), (1,4), (1,3)],
-                 3:[(4, 0), (5,5), (1,2), (6,2), (5,4), (4,3),(3,1), (3,2), (2,6), (1,5), (1,4), (1,3)],
-                 4:[(0, 2), (0, 3), (1, 3), (2,3), (3,1), (4,1), (1,5), (2,5), (5,1), (6,2), (3,3)],
-                 5:[(1, 1), (2, 2), (5,0), (4,2), (5,3),(3,3), (6,3)]}
+                 5:[(4, 0), (5,5), (1,2), (6,2), (5,4), (4,3),(3,1), (3,2), (2,6), (1,5), (1,4), (1,3)],
+                 3:[(0, 2), (0, 3), (1, 3), (2,3), (3,1), (4,1), (1,5), (2,5), (5,1), (6,2), (3,3)],
+                 1:[(1, 1), (2, 2), (5,0), (4,2), (5,3),(3,3), (6,3)]}
 
 walls = dynamic_walls[walli]
 specials = [(6, 0, "red", 30)]
@@ -36,6 +36,10 @@ specials = [(6, 0, "red", 30)]
 #Toggle agents visibility
 show_ma = True
 show_solver = True
+
+#counts
+tile = 0;
+total_move = 0;
 
 
 def render_grid():
@@ -53,21 +57,28 @@ def render_grid():
 render_grid()
 
 def env_change():
-    global walls, walls_gui, walli
+    global walls, walls_gui, walli,start_time,restart,total_move
     for gui in walls_gui :
         board.delete(gui)
 
-    walli = random.randint(0,wall_count) 
+    #walli = random.randint(0,wall_count)
+    if(walli == wall_count):
+        walli = 0
+    else :
+        walli += 1 
     walls =  dynamic_walls[walli]
+    print "/n CHANGE MAZE ",walli
+    start_time = time.time()
     for (i, j) in walls:
         w=board.create_rectangle(i*Width, j*Width, (i+1)*Width, (j+1)*Width, fill="black", width=1)
         walls_gui.append(w)   
+    total_move = 0
     restart = True
     ma_restart =True
 
 
 def try_move(dx, dy):
-    global player, x, y, score, walk_reward, agent, restart
+    global player, x, y, score, walk_reward, agent, restart, tile,total_move
     if restart == True:
         restart_game()
     new_x = player[0] + dx
@@ -77,12 +88,14 @@ def try_move(dx, dy):
         if(show_solver):
          board.coords(agent, new_x*Width+Width*2/10, new_y*Width+Width*2/10, new_x*Width+Width*8/10, new_y*Width+Width*8/10)
         player = (new_x, new_y)
+        tile += 1
+        total_move += 1
     for (i, j, c, w) in specials:
         if new_x == i and new_y == j:
             score -= walk_reward
             score += w
             if score > 0:
-                print "Goal! : ", score, (" time : %s seconds ---" % (time.time() - start_time))
+                print "Goal! : ", score , " move : ", tile, " tot_mov :",total_move,(" time : %s sec--" % (time.time() - start_time))
            # else:
             #    print "Goal! : ", score
             restart = True
@@ -138,10 +151,11 @@ def ma_restart_game():
         board.coords(ma_agent, ma_player[0]*Width+Width*2/10, ma_player[1]*Width+Width*2/10, ma_player[0]*Width+Width*8/10, ma_player[1]*Width+Width*8/10)
 
 def restart_game():
-    global player, score, agent, restart
+    global player, score, agent, restart, tile
     player = (0, y-1)
     score = 1
     restart = False
+    tile = 0
     if(show_solver):
      board.coords(agent, player[0]*Width+Width*2/10, player[1]*Width+Width*2/10, player[0]*Width+Width*8/10, player[1]*Width+Width*8/10)
 
