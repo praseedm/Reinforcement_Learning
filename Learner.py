@@ -132,7 +132,7 @@ def run():
         alpha = pow(t, -0.1)
 
         # SLEEP.
-        time.sleep(0.009)
+        time.sleep(0.02)
         
 
 #ctrl+C interrupt handler
