@@ -215,7 +215,7 @@ t = threading.Thread(target=run)
 t.daemon = True
 t.start()
 t_multi.start()
-t_env.start()
+#t_env.start()
 
 ma_Gui.start_game()
 

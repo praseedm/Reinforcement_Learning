@@ -1,0 +1,68 @@
+READ
+
+Goal! :  19.4  move :  72  time : 4.35699987411 seconds ---
+Iteration =  1
+Goal! :  20.9  move :  54  time : 6.7349998951 seconds ---
+Iteration =  2
+Goal! :  20.8  move :  92  time : 9.15499997139 seconds ---
+Iteration =  3
+Goal! :  25.3  move :  42  time : 10.5369999409 seconds ---
+Iteration =  4
+Goal! :  27.8  move :  26  time : 11.3159999847 seconds ---
+Iteration =  5
+Goal! :  28.5  move :  24  time : 11.9499998093 seconds ---
+Iteration =  6
+Goal! :  29.1  move :  16  time : 12.4340000153 seconds ---
+Iteration =  7
+Goal! :  27.5  move :  26  time : 13.3049998283 seconds ---
+Iteration =  8
+Goal! :  29.1  move :  16  time : 13.7879998684 seconds ---
+Iteration =  9
+Goal! :  29.1  move :  18  time : 14.2749998569 seconds ---
+Iteration =  10
+Goal! :  29.3  move :  16  time : 14.7239999771 seconds ---
+Iteration =  11
+Goal! :  29.2  move :  18  time : 15.1879999638 seconds ---
+Iteration =  12
+Goal! :  29.4  move :  16  time : 15.6099998951 seconds ---
+Iteration =  13
+Goal! :  29.3  move :  16  time : 16.0409998894 seconds ---
+Iteration =  14
+Goal! :  29.5  move :  16  time : 16.4399998188 seconds ---
+Iteration =  15
+Goal! :  29.0  move :  18  time : 16.9559998512 seconds ---
+Iteration =  16
+Goal! :  29.5  move :  16  time : 17.3389999866 seconds ---
+Iteration =  17
+Goal! :  29.5  move :  16  time : 17.7289998531 seconds ---
+Iteration =  18
+Goal! :  29.5  move :  16  time : 18.128000021 seconds ---
+Iteration =  19
+Goal! :  29.5  move :  16  time : 18.5269999504 seconds ---
+Iteration =  20
+Goal! :  29.5  move :  16  time : 18.9349999428 seconds ---
+Iteration =  21
+Goal! :  29.5  move :  16  time : 19.3350000381 seconds ---
+Iteration =  22
+Goal! :  29.5  move :  16  time : 19.7339999676 seconds ---
+Iteration =  23
+Goal! :  29.5  move :  16  time : 20.125 seconds ---
+Iteration =  24
+Goal! :  29.5  move :  16  time : 20.5329999924 seconds ---
+Iteration =  25
+Goal! :  29.5  move :  16  time : 20.9349999428 seconds ---
+Iteration =  26
+Goal! :  29.5  move :  16  time : 21.3409998417 seconds ---
+Iteration =  27
+Goal! :  29.5  move :  16  time : 21.7409999371 seconds ---
+Iteration =  28
+Goal! :  29.5  move :  16  time : 22.1319999695 seconds ---
+Iteration =  29
+Goal! :  29.5  move :  16  time : 22.5390000343 seconds ---
+Iteration =  30
+Goal! :  29.5  move :  16  time : 22.9379999638 seconds ---
+Iteration =  31
+Goal! :  29.5  move :  16  time : 23.3259999752 seconds ---
+Iteration =  32
+Goal! :  29.5  move :  16  time : 23.7269999981 seconds ---
+Iteration =  33

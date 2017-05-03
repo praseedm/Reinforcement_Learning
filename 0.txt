@@ -1,0 +1,1838 @@
+Initialize
+
+Goal! :  16.3  move :  106  time : 4.82699990273 seconds ---
+
+Iteration =  1
+Goal! :  14.7  move :  116  time : 8.6970000267 seconds ---
+
+Iteration =  2
+Goal! :  24.0  move :  54  time : 10.379999876 seconds ---
+
+Iteration =  3
+Goal! :  14.4  move :  120  time : 14.3009998798 seconds ---
+
+Iteration =  4
+Goal! :  25.6  move :  40  time : 15.628000021 seconds ---
+
+Iteration =  5
+Goal! :  26.6  move :  28  time : 16.7139999866 seconds ---
+
+Iteration =  6
+Goal! :  26.7  move :  32  time : 17.7630000114 seconds ---
+
+Iteration =  7
+Goal! :  29.2  move :  16  time : 18.2239999771 seconds ---
+
+Iteration =  8
+Goal! :  25.4  move :  46  time : 19.5820000172 seconds ---
+
+Iteration =  9
+Goal! :  27.3  move :  32  time : 20.4869999886 seconds ---
+
+Iteration =  10
+Goal! :  28.5  move :  18  time : 21.1209998131 seconds ---
+
+Iteration =  11
+Goal! :  29.3  move :  16  time : 21.5599999428 seconds ---
+
+Iteration =  12
+Goal! :  27.8  move :  26  time : 22.3579998016 seconds ---
+
+Iteration =  13
+Goal! :  26.1  move :  38  time : 23.5509998798 seconds ---
+
+Iteration =  14
+Goal! :  27.3  move :  30  time : 24.4479999542 seconds ---
+
+Iteration =  15
+Goal! :  28.8  move :  16  time : 25.0130000114 seconds ---
+
+Iteration =  16
+Goal! :  28.5  move :  22  time : 25.6380000114 seconds ---
+
+Iteration =  17
+Goal! :  29.3  move :  16  time : 26.0849997997 seconds ---
+
+Iteration =  18
+Goal! :  29.7  move :  14  time : 26.4299998283 seconds ---
+
+Iteration =  19
+Goal! :  29.8  move :  12  time : 26.7589998245 seconds ---
+
+Iteration =  20
+Goal! :  29.9  move :  12  time : 27.0469999313 seconds ---
+
+Iteration =  21
+Goal! :  29.8  move :  12  time : 27.3679997921 seconds ---
+
+Iteration =  22
+Goal! :  29.6  move :  14  time : 27.7300000191 seconds ---
+
+Iteration =  23
+Goal! :  29.5  move :  14  time : 28.121999979 seconds ---
+
+Iteration =  24
+Goal! :  29.9  move :  12  time : 28.4179999828 seconds ---
+
+Iteration =  25
+Goal! :  29.9  move :  12  time : 28.7189998627 seconds ---
+
+Iteration =  26
+Goal! :  29.9  move :  12  time : 29.0169999599 seconds ---
+
+Iteration =  27
+Goal! :  29.9  move :  12  time : 29.3190000057 seconds ---
+
+Iteration =  28
+Goal! :  29.9  move :  12  time : 29.618999958 seconds ---
+
+Iteration =  29
+Goal! :  29.9  move :  12  time : 29.9189999104 seconds ---
+
+Iteration =  30
+Goal! :  29.9  move :  12  time : 30.2149999142 seconds ---
+
+Iteration =  31
+Goal! :  29.9  move :  12  time : 30.5269999504 seconds ---
+
+Iteration =  32
+Goal! :  29.9  move :  12  time : 30.8329999447 seconds ---
+
+Iteration =  33
+Goal! :  29.9  move :  12  time : 31.1380000114 seconds ---
+
+Iteration =  34
+Goal! :  29.9  move :  12  time : 31.4359998703 seconds ---
+
+Iteration =  35
+Goal! :  29.9  move :  12  time : 31.7479999065 seconds ---
+
+Iteration =  36
+Goal! :  29.9  move :  12  time : 32.0490000248 seconds ---
+
+Iteration =  37
+Goal! :  29.9  move :  12  time : 32.3489999771 seconds ---
+
+Iteration =  38
+Goal! :  29.9  move :  12  time : 32.6569998264 seconds ---
+
+Iteration =  39
+Goal! :  29.9  move :  12  time : 32.9579999447 seconds ---
+
+Iteration =  40
+Goal! :  29.9  move :  12  time : 33.2630000114 seconds ---
+
+Iteration =  41
+Goal! :  29.9  move :  12  time : 33.5590000153 seconds ---
+
+Iteration =  42
+Goal! :  29.9  move :  12  time : 33.8619999886 seconds ---
+
+Iteration =  43
+Goal! :  29.9  move :  12  time : 34.1610000134 seconds ---
+
+Iteration =  44
+Goal! :  29.9  move :  12  time : 34.4670000076 seconds ---
+
+Iteration =  45
+Goal! :  29.9  move :  12  time : 34.7699999809 seconds ---
+
+Iteration =  46
+Goal! :  29.9  move :  12  time : 35.0709998608 seconds ---
+
+Iteration =  47
+Goal! :  29.9  move :  12  time : 35.368999958 seconds ---
+
+Iteration =  48
+Goal! :  29.9  move :  12  time : 35.6749999523 seconds ---
+
+Iteration =  49
+Goal! :  29.9  move :  12  time : 35.9789998531 seconds ---
+
+Iteration =  50
+Goal! :  29.9  move :  12  time : 36.2789998055 seconds ---
+
+Iteration =  51
+Goal! :  29.9  move :  12  time : 36.6009998322 seconds ---
+
+Iteration =  52
+Goal! :  29.9  move :  12  time : 36.9010000229 seconds ---
+
+Iteration =  53
+Goal! :  29.9  move :  12  time : 37.2049999237 seconds ---
+
+Iteration =  54
+Goal! :  29.9  move :  12  time : 37.5279998779 seconds ---
+
+Iteration =  55
+Goal! :  29.9  move :  12  time : 37.8279998302 seconds ---
+
+Iteration =  56
+Goal! :  29.9  move :  12  time : 38.135999918 seconds ---
+
+Iteration =  57
+Goal! :  29.9  move :  12  time : 38.4279999733 seconds ---
+
+Iteration =  58
+Goal! :  29.9  move :  12  time : 38.7309999466 seconds ---
+
+Iteration =  59
+Goal! :  29.9  move :  12  time : 39.0329999924 seconds ---
+
+Iteration =  60
+Goal! :  29.9  move :  12  time : 39.3329999447 seconds ---
+
+Iteration =  61
+Goal! :  29.9  move :  12  time : 39.628000021 seconds ---
+
+Iteration =  62
+Goal! :  29.9  move :  12  time : 39.9309999943 seconds ---
+
+Iteration =  63
+Goal! :  29.9  move :  12  time : 40.2309999466 seconds ---
+
+Iteration =  64
+Goal! :  29.9  move :  12  time : 40.5319998264 seconds ---
+
+Iteration =  65
+Goal! :  29.9  move :  12  time : 40.8299999237 seconds ---
+
+Iteration =  66
+Goal! :  29.9  move :  12  time : 41.1419999599 seconds ---
+
+Iteration =  67
+Goal! :  29.9  move :  12  time : 41.4409999847 seconds ---
+
+Iteration =  68
+Goal! :  29.9  move :  12  time : 41.7459998131 seconds ---
+
+Iteration =  69
+Goal! :  29.9  move :  12  time : 42.0539999008 seconds ---
+
+Iteration =  70
+Goal! :  29.9  move :  12  time : 42.3509998322 seconds ---
+
+Iteration =  71
+Goal! :  29.9  move :  12  time : 42.6499998569 seconds ---
+
+Iteration =  72
+Goal! :  29.9  move :  12  time : 42.9449999332 seconds ---
+
+Iteration =  73
+Goal! :  29.9  move :  12  time : 43.243999958 seconds ---
+
+Iteration =  74
+Goal! :  29.9  move :  12  time : 43.5559999943 seconds ---
+
+Iteration =  75
+Goal! :  29.9  move :  12  time : 43.8619999886 seconds ---
+
+Iteration =  76
+Goal! :  29.9  move :  12  time : 44.1689999104 seconds ---
+
+Iteration =  77
+Goal! :  29.9  move :  12  time : 44.4719998837 seconds ---
+
+Iteration =  78
+Goal! :  29.9  move :  12  time : 44.7760000229 seconds ---
+
+Iteration =  79
+Goal! :  29.9  move :  12  time : 45.0779998302 seconds ---
+
+Iteration =  80
+Goal! :  29.9  move :  12  time : 45.378000021 seconds ---
+
+Iteration =  81
+Goal! :  29.9  move :  12  time : 45.6819999218 seconds ---
+
+Iteration =  82
+Goal! :  29.9  move :  12  time : 45.9759998322 seconds ---
+
+Iteration =  83
+Goal! :  29.9  move :  12  time : 46.2760000229 seconds ---
+
+Iteration =  84
+Goal! :  29.9  move :  12  time : 46.5879998207 seconds ---
+
+Iteration =  85
+Goal! :  29.9  move :  12  time : 46.8899998665 seconds ---
+
+Iteration =  86
+Goal! :  29.9  move :  12  time : 47.1959998608 seconds ---
+
+Iteration =  87
+Goal! :  29.9  move :  12  time : 47.5 seconds ---
+
+Iteration =  88
+Goal! :  29.9  move :  12  time : 47.8019998074 seconds ---
+
+Iteration =  89
+Goal! :  29.9  move :  12  time : 48.1069998741 seconds ---
+
+Iteration =  90
+Goal! :  29.9  move :  12  time : 48.4169998169 seconds ---
+
+Iteration =  91
+Goal! :  29.9  move :  12  time : 48.7070000172 seconds ---
+
+Iteration =  92
+Goal! :  29.9  move :  12  time : 49.0089998245 seconds ---
+
+Iteration =  93
+Goal! :  29.9  move :  12  time : 49.3149998188 seconds ---
+
+Iteration =  94
+Goal! :  29.9  move :  12  time : 49.632999897 seconds ---
+
+Iteration =  95
+Goal! :  29.9  move :  12  time : 49.9379999638 seconds ---
+
+Iteration =  96
+Goal! :  29.9  move :  12  time : 50.2400000095 seconds ---
+
+Iteration =  97
+Goal! :  29.9  move :  12  time : 50.5299999714 seconds ---
+
+Iteration =  98
+Goal! :  29.9  move :  12  time : 50.8569998741 seconds ---
+
+Iteration =  99
+Goal! :  29.9  move :  12  time : 51.1559998989 seconds ---
+
+Iteration =  100
+Goal! :  29.9  move :  12  time : 51.4519999027 seconds ---
+
+Iteration =  101
+Goal! :  29.9  move :  12  time : 51.7679998875 seconds ---
+
+Iteration =  102
+Goal! :  29.9  move :  12  time : 52.0649998188 seconds ---
+
+Iteration =  103
+Goal! :  29.9  move :  12  time : 52.3609998226 seconds ---
+
+Iteration =  104
+Goal! :  29.9  move :  12  time : 52.6710000038 seconds ---
+
+Iteration =  105
+Goal! :  29.9  move :  12  time : 52.9709999561 seconds ---
+
+Iteration =  106
+Goal! :  29.9  move :  12  time : 53.2679998875 seconds ---
+
+Iteration =  107
+Goal! :  29.9  move :  12  time : 53.5669999123 seconds ---
+
+Iteration =  108
+Goal! :  29.9  move :  12  time : 53.8739998341 seconds ---
+
+Iteration =  109
+Goal! :  29.9  move :  12  time : 54.1789999008 seconds ---
+
+Iteration =  110
+Goal! :  29.9  move :  12  time : 54.4700000286 seconds ---
+
+Iteration =  111
+Goal! :  29.9  move :  12  time : 54.7849998474 seconds ---
+
+Iteration =  112
+Goal! :  29.9  move :  12  time : 55.0889999866 seconds ---
+
+Iteration =  113
+Goal! :  29.9  move :  12  time : 55.396999836 seconds ---
+
+Iteration =  114
+Goal! :  29.9  move :  12  time : 55.6929998398 seconds ---
+
+Iteration =  115
+Goal! :  29.9  move :  12  time : 55.9869999886 seconds ---
+
+Iteration =  116
+Goal! :  29.9  move :  12  time : 56.2849998474 seconds ---
+
+Iteration =  117
+Goal! :  29.9  move :  12  time : 56.5829999447 seconds ---
+
+Iteration =  118
+Goal! :  29.9  move :  12  time : 56.890999794 seconds ---
+
+Iteration =  119
+Goal! :  29.9  move :  12  time : 57.1999998093 seconds ---
+
+Iteration =  120
+Goal! :  29.9  move :  12  time : 57.507999897 seconds ---
+
+Iteration =  121
+Goal! :  29.9  move :  12  time : 57.8099999428 seconds ---
+
+Iteration =  122
+Goal! :  29.9  move :  12  time : 58.1159999371 seconds ---
+
+Iteration =  123
+Goal! :  29.9  move :  12  time : 58.4069998264 seconds ---
+
+Iteration =  124
+Goal! :  29.9  move :  12  time : 58.7059998512 seconds ---
+
+Iteration =  125
+Goal! :  29.9  move :  12  time : 59.010999918 seconds ---
+
+Iteration =  126
+Goal! :  29.9  move :  12  time : 59.3159999847 seconds ---
+
+Iteration =  127
+Goal! :  29.9  move :  12  time : 59.6150000095 seconds ---
+
+Iteration =  128
+Goal! :  29.9  move :  12  time : 59.9159998894 seconds ---
+
+Iteration =  129
+Goal! :  29.9  move :  12  time : 60.2239999771 seconds ---
+
+Iteration =  130
+Goal! :  29.9  move :  12  time : 60.5279998779 seconds ---
+
+Iteration =  131
+Goal! :  29.9  move :  12  time : 60.8329999447 seconds ---
+
+Iteration =  132
+Goal! :  29.9  move :  12  time : 61.135999918 seconds ---
+
+Iteration =  133
+Goal! :  29.9  move :  12  time : 61.4399998188 seconds ---
+
+Iteration =  134
+Goal! :  29.9  move :  12  time : 61.7389998436 seconds ---
+
+Iteration =  135
+Goal! :  29.9  move :  12  time : 62.0319998264 seconds ---
+
+Iteration =  136
+Goal! :  29.9  move :  12  time : 62.3409998417 seconds ---
+
+Iteration =  137
+Goal! :  29.9  move :  12  time : 62.6499998569 seconds ---
+
+Iteration =  138
+Goal! :  29.9  move :  12  time : 62.9489998817 seconds ---
+
+Iteration =  139
+Goal! :  29.9  move :  12  time : 63.253000021 seconds ---
+
+Iteration =  140
+Goal! :  29.9  move :  12  time : 63.5549998283 seconds ---
+
+Iteration =  141
+Goal! :  29.9  move :  12  time : 63.8599998951 seconds ---
+
+Iteration =  142
+Goal! :  29.9  move :  12  time : 64.1569998264 seconds ---
+
+Iteration =  143
+Goal! :  29.9  move :  12  time : 64.4599997997 seconds ---
+
+Iteration =  144
+Goal! :  29.9  move :  12  time : 64.7479999065 seconds ---
+
+Iteration =  145
+Goal! :  29.9  move :  12  time : 65.0529999733 seconds ---
+
+Iteration =  146
+Goal! :  29.9  move :  12  time : 65.3539998531 seconds ---
+
+Iteration =  147
+Goal! :  29.9  move :  12  time : 65.6499998569 seconds ---
+
+Iteration =  148
+Goal! :  29.9  move :  12  time : 65.9499998093 seconds ---
+
+Iteration =  149
+Goal! :  29.9  move :  12  time : 66.2369999886 seconds ---
+
+Iteration =  150
+Goal! :  29.9  move :  12  time : 66.5409998894 seconds ---
+
+Iteration =  151
+Goal! :  29.9  move :  12  time : 66.8439998627 seconds ---
+
+Iteration =  152
+Goal! :  29.9  move :  12  time : 67.1519999504 seconds ---
+
+Iteration =  153
+Goal! :  29.9  move :  12  time : 67.4609999657 seconds ---
+
+Iteration =  154
+Goal! :  29.9  move :  12  time : 67.7899999619 seconds ---
+
+Iteration =  155
+Goal! :  29.9  move :  12  time : 68.0989999771 seconds ---
+
+Iteration =  156
+Goal! :  29.9  move :  12  time : 68.3959999084 seconds ---
+
+Iteration =  157
+Goal! :  29.9  move :  12  time : 68.6849999428 seconds ---
+
+Iteration =  158
+Goal! :  29.9  move :  12  time : 68.9869999886 seconds ---
+
+Iteration =  159
+Goal! :  29.9  move :  12  time : 69.2919998169 seconds ---
+
+Iteration =  160
+Goal! :  29.9  move :  12  time : 69.5929999352 seconds ---
+
+Iteration =  161
+Goal! :  29.9  move :  12  time : 69.9029998779 seconds ---
+
+Iteration =  162
+Goal! :  29.9  move :  12  time : 70.2059998512 seconds ---
+
+Iteration =  163
+Goal! :  29.9  move :  12  time : 70.5099999905 seconds ---
+
+Iteration =  164
+Goal! :  29.9  move :  12  time : 70.8129999638 seconds ---
+
+Iteration =  165
+Goal! :  29.9  move :  12  time : 71.118999958 seconds ---
+
+Iteration =  166
+Goal! :  29.9  move :  12  time : 71.4259998798 seconds ---
+
+Iteration =  167
+Goal! :  29.9  move :  12  time : 71.7219998837 seconds ---
+
+Iteration =  168
+Goal! :  29.9  move :  12  time : 72.0289998055 seconds ---
+
+Iteration =  169
+Goal! :  29.9  move :  12  time : 72.3220000267 seconds ---
+
+Iteration =  170
+Goal! :  29.9  move :  12  time : 72.6309998035 seconds ---
+
+Iteration =  171
+Goal! :  29.9  move :  12  time : 72.9289999008 seconds ---
+
+Iteration =  172
+Goal! :  29.9  move :  12  time : 73.2329998016 seconds ---
+
+Iteration =  173
+Goal! :  29.9  move :  12  time : 73.5349998474 seconds ---
+
+Iteration =  174
+Goal! :  29.9  move :  12  time : 73.8439998627 seconds ---
+
+Iteration =  175
+Goal! :  29.9  move :  12  time : 74.143999815 seconds ---
+
+Iteration =  176
+Goal! :  29.9  move :  12  time : 74.4349999428 seconds ---
+
+Iteration =  177
+Goal! :  29.9  move :  12  time : 74.7349998951 seconds ---
+
+Iteration =  178
+Goal! :  29.9  move :  12  time : 75.0379998684 seconds ---
+
+Iteration =  179
+Goal! :  29.9  move :  12  time : 75.3359999657 seconds ---
+
+Iteration =  180
+Goal! :  29.9  move :  12  time : 75.6349999905 seconds ---
+
+Iteration =  181
+Goal! :  29.9  move :  12  time : 75.9369997978 seconds ---
+
+Iteration =  182
+Goal! :  29.9  move :  12  time : 76.2409999371 seconds ---
+
+Iteration =  183
+Goal! :  29.9  move :  12  time : 76.5339999199 seconds ---
+
+Iteration =  184
+Goal! :  29.9  move :  12  time : 76.8439998627 seconds ---
+
+Iteration =  185
+Goal! :  29.9  move :  12  time : 77.1529998779 seconds ---
+
+Iteration =  186
+Goal! :  29.9  move :  12  time : 77.4479999542 seconds ---
+
+Iteration =  187
+Goal! :  29.9  move :  12  time : 77.75 seconds ---
+
+Iteration =  188
+Goal! :  29.9  move :  12  time : 78.0479998589 seconds ---
+
+Iteration =  189
+Goal! :  29.9  move :  12  time : 78.3499999046 seconds ---
+
+Iteration =  190
+Goal! :  29.9  move :  12  time : 78.6539998055 seconds ---
+
+Iteration =  191
+Goal! :  29.9  move :  12  time : 78.9609999657 seconds ---
+
+Iteration =  192
+Goal! :  29.9  move :  12  time : 79.263999939 seconds ---
+
+Iteration =  193
+Goal! :  29.9  move :  12  time : 79.5629999638 seconds ---
+
+Iteration =  194
+Goal! :  29.9  move :  12  time : 79.8699998856 seconds ---
+
+Iteration =  195
+/n CHANGE MAZE  1
+
+Iteration =  196
+Goal! :  14.4  move :  110  time : 23.879999876 seconds ---
+
+Iteration =  197
+Goal! :  17.7  move :  94  time : 27.0810000896 seconds ---
+
+Iteration =  198
+Goal! :  25.4  move :  42  time : 28.4479999542 seconds ---
+
+Iteration =  199
+Goal! :  22.4  move :  62  time : 30.5090000629 seconds ---
+
+Iteration =  200
+Goal! :  25.6  move :  34  time : 31.8280000687 seconds ---
+
+Iteration =  201
+Goal! :  23.4  move :  56  time : 33.6619999409 seconds ---
+
+Iteration =  202
+Goal! :  27.2  move :  26  time : 34.6010000706 seconds ---
+
+Iteration =  203
+Goal! :  24.8  move :  46  time : 36.1019999981 seconds ---
+
+Iteration =  204
+Goal! :  27.7  move :  24  time : 36.9249999523 seconds ---
+
+Iteration =  205
+Goal! :  26.5  move :  34  time : 38.0390000343 seconds ---
+
+Iteration =  206
+Goal! :  26.8  move :  32  time : 39.0629999638 seconds ---
+
+Iteration =  207
+Goal! :  27.8  move :  28  time : 39.8559999466 seconds ---
+
+Iteration =  208
+Goal! :  27.0  move :  26  time : 40.8339998722 seconds ---
+
+Iteration =  209
+Goal! :  28.3  move :  24  time : 41.5099999905 seconds ---
+
+Iteration =  210
+Goal! :  29.0  move :  20  time : 42.0179998875 seconds ---
+
+Iteration =  211
+Goal! :  27.1  move :  32  time : 42.9719998837 seconds ---
+
+Iteration =  212
+Goal! :  29.1  move :  20  time : 43.4619998932 seconds ---
+
+Iteration =  213
+Goal! :  29.1  move :  20  time : 43.9530000687 seconds ---
+
+Iteration =  214
+Goal! :  28.7  move :  20  time : 44.5220000744 seconds ---
+
+Iteration =  215
+Goal! :  29.0  move :  20  time : 45.0390000343 seconds ---
+
+Iteration =  216
+Goal! :  29.1  move :  20  time : 45.5230000019 seconds ---
+
+Iteration =  217
+Goal! :  29.1  move :  20  time : 46.013999939 seconds ---
+
+Iteration =  218
+Goal! :  29.1  move :  20  time : 46.5120000839 seconds ---
+
+Iteration =  219
+Goal! :  29.1  move :  20  time : 47.0020000935 seconds ---
+
+Iteration =  220
+Goal! :  29.1  move :  20  time : 47.4909999371 seconds ---
+
+Iteration =  221
+Goal! :  29.1  move :  20  time : 47.9679999352 seconds ---
+
+Iteration =  222
+Goal! :  29.1  move :  20  time : 48.4539999962 seconds ---
+
+Iteration =  223
+Goal! :  29.1  move :  20  time : 48.9440000057 seconds ---
+
+Iteration =  224
+Goal! :  29.1  move :  20  time : 49.4379999638 seconds ---
+
+Iteration =  225
+Goal! :  29.1  move :  20  time : 49.9359998703 seconds ---
+
+Iteration =  226
+Goal! :  29.1  move :  20  time : 50.4340000153 seconds ---
+
+Iteration =  227
+Goal! :  29.1  move :  20  time : 50.9159998894 seconds ---
+
+Iteration =  228
+Goal! :  29.1  move :  20  time : 51.3910000324 seconds ---
+
+Iteration =  229
+Goal! :  29.1  move :  20  time : 51.8770000935 seconds ---
+
+Iteration =  230
+Goal! :  29.1  move :  20  time : 52.379999876 seconds ---
+
+Iteration =  231
+Goal! :  29.1  move :  20  time : 52.864000082 seconds ---
+
+Iteration =  232
+Goal! :  29.1  move :  20  time : 53.3659999371 seconds ---
+
+Iteration =  233
+Goal! :  29.1  move :  20  time : 53.8580000401 seconds ---
+
+Iteration =  234
+Goal! :  29.1  move :  20  time : 54.3469998837 seconds ---
+
+Iteration =  235
+Goal! :  29.1  move :  20  time : 54.8299999237 seconds ---
+
+Iteration =  236
+Goal! :  29.1  move :  20  time : 55.3410000801 seconds ---
+
+Iteration =  237
+Goal! :  29.1  move :  20  time : 55.8399999142 seconds ---
+
+Iteration =  238
+Goal! :  29.1  move :  20  time : 56.3440001011 seconds ---
+
+Iteration =  239
+Goal! :  29.1  move :  20  time : 56.8220000267 seconds ---
+
+Iteration =  240
+Goal! :  29.1  move :  20  time : 57.3159999847 seconds ---
+
+Iteration =  241
+Goal! :  29.1  move :  20  time : 57.8099999428 seconds ---
+
+Iteration =  242
+Goal! :  29.1  move :  20  time : 58.2969999313 seconds ---
+
+Iteration =  243
+Goal! :  29.1  move :  20  time : 58.7829999924 seconds ---
+
+Iteration =  244
+Goal! :  29.1  move :  20  time : 59.2739999294 seconds ---
+
+Iteration =  245
+Goal! :  29.1  move :  20  time : 59.7599999905 seconds ---
+
+Iteration =  246
+Goal! :  29.1  move :  20  time : 60.2739999294 seconds ---
+
+Iteration =  247
+Goal! :  29.1  move :  20  time : 60.763999939 seconds ---
+
+Iteration =  248
+Goal! :  29.1  move :  20  time : 61.2669999599 seconds ---
+
+Iteration =  249
+Goal! :  29.1  move :  20  time : 61.7590000629 seconds ---
+
+Iteration =  250
+Goal! :  29.1  move :  20  time : 62.257999897 seconds ---
+
+Iteration =  251
+Goal! :  29.1  move :  20  time : 62.7409999371 seconds ---
+
+Iteration =  252
+Goal! :  29.1  move :  20  time : 63.2379999161 seconds ---
+
+Iteration =  253
+Goal! :  29.1  move :  20  time : 63.7290000916 seconds ---
+
+Iteration =  254
+Goal! :  29.1  move :  20  time : 64.2260000706 seconds ---
+
+Iteration =  255
+Goal! :  29.1  move :  20  time : 64.7160000801 seconds ---
+
+Iteration =  256
+Goal! :  29.1  move :  20  time : 65.2130000591 seconds ---
+
+Iteration =  257
+Goal! :  29.1  move :  20  time : 65.7100000381 seconds ---
+
+Iteration =  258
+Goal! :  29.1  move :  20  time : 66.2170000076 seconds ---
+
+Iteration =  259
+Goal! :  29.1  move :  20  time : 66.7039999962 seconds ---
+
+Iteration =  260
+Goal! :  29.1  move :  20  time : 67.1940000057 seconds ---
+
+Iteration =  261
+Goal! :  29.1  move :  20  time : 67.6840000153 seconds ---
+
+Iteration =  262
+Goal! :  29.1  move :  20  time : 68.1849999428 seconds ---
+
+Iteration =  263
+Goal! :  29.1  move :  20  time : 68.6749999523 seconds ---
+
+Iteration =  264
+Goal! :  29.1  move :  20  time : 69.1649999619 seconds ---
+
+Iteration =  265
+Goal! :  29.1  move :  20  time : 69.6600000858 seconds ---
+
+Iteration =  266
+Goal! :  29.1  move :  20  time : 70.1459999084 seconds ---
+
+Iteration =  267
+Goal! :  29.1  move :  20  time : 70.6229999065 seconds ---
+
+Iteration =  268
+Goal! :  29.1  move :  20  time : 71.1259999275 seconds ---
+
+Iteration =  269
+Goal! :  29.1  move :  20  time : 71.6210000515 seconds ---
+
+Iteration =  270
+Goal! :  29.1  move :  20  time : 72.1080000401 seconds ---
+
+Iteration =  271
+Goal! :  29.1  move :  20  time : 72.6010000706 seconds ---
+
+Iteration =  272
+Goal! :  29.1  move :  20  time : 73.0910000801 seconds ---
+
+Iteration =  273
+Goal! :  29.1  move :  20  time : 73.5929999352 seconds ---
+
+Iteration =  274
+Goal! :  29.1  move :  20  time : 74.0869998932 seconds ---
+
+Iteration =  275
+Goal! :  29.1  move :  20  time : 74.5769999027 seconds ---
+
+Iteration =  276
+Goal! :  29.1  move :  20  time : 75.0609998703 seconds ---
+
+Iteration =  277
+Goal! :  29.1  move :  20  time : 75.5529999733 seconds ---
+
+Iteration =  278
+Goal! :  29.1  move :  20  time : 76.0399999619 seconds ---
+
+Iteration =  279
+Goal! :  29.1  move :  20  time : 76.5320000648 seconds ---
+
+Iteration =  280
+Goal! :  29.1  move :  20  time : 77.0160000324 seconds ---
+
+Iteration =  281
+Goal! :  29.1  move :  20  time : 77.5069999695 seconds ---
+
+Iteration =  282
+Goal! :  29.1  move :  20  time : 77.9930000305 seconds ---
+
+Iteration =  283
+Goal! :  29.1  move :  20  time : 78.4779999256 seconds ---
+
+Iteration =  284
+Goal! :  29.1  move :  20  time : 78.9779999256 seconds ---
+
+Iteration =  285
+Goal! :  29.1  move :  20  time : 79.4739999771 seconds ---
+
+Iteration =  286
+Goal! :  29.1  move :  20  time : 79.9570000172 seconds ---
+
+Iteration =  287
+/n CHANGE MAZE  2
+
+Iteration =  288
+Goal! :  25.2  move :  42  time : 17.6890001297 seconds ---
+
+Iteration =  289
+Goal! :  27.3  move :  28  time : 18.606000185 seconds ---
+
+Iteration =  290
+Goal! :  27.6  move :  28  time : 19.4539999962 seconds ---
+
+Iteration =  291
+Goal! :  27.8  move :  28  time : 20.2650001049 seconds ---
+
+Iteration =  292
+Goal! :  28.8  move :  22  time : 20.8330001831 seconds ---
+
+Iteration =  293
+Goal! :  28.5  move :  22  time : 21.4580001831 seconds ---
+
+Iteration =  294
+Goal! :  28.9  move :  22  time : 21.984000206 seconds ---
+
+Iteration =  295
+Goal! :  28.9  move :  22  time : 22.5160000324 seconds ---
+
+Iteration =  296
+Goal! :  28.9  move :  22  time : 23.0460000038 seconds ---
+
+Iteration =  297
+Goal! :  28.9  move :  22  time : 23.5780000687 seconds ---
+
+Iteration =  298
+Goal! :  28.0  move :  28  time : 24.3200001717 seconds ---
+
+Iteration =  299
+Goal! :  28.5  move :  24  time : 24.9490001202 seconds ---
+
+Iteration =  300
+Goal! :  28.9  move :  22  time : 25.489000082 seconds ---
+
+Iteration =  301
+Goal! :  28.9  move :  22  time : 26.0150001049 seconds ---
+
+Iteration =  302
+Goal! :  28.9  move :  22  time : 26.5450000763 seconds ---
+
+Iteration =  303
+Goal! :  28.9  move :  22  time : 27.0770001411 seconds ---
+
+Iteration =  304
+Goal! :  28.9  move :  22  time : 27.6360001564 seconds ---
+
+Iteration =  305
+Goal! :  28.9  move :  22  time : 28.1680002213 seconds ---
+
+Iteration =  306
+Goal! :  28.9  move :  22  time : 28.6990001202 seconds ---
+
+Iteration =  307
+Goal! :  28.9  move :  22  time : 29.2290000916 seconds ---
+
+Iteration =  308
+Goal! :  28.9  move :  22  time : 29.7610001564 seconds ---
+
+Iteration =  309
+Goal! :  28.9  move :  22  time : 30.3130002022 seconds ---
+
+Iteration =  310
+Goal! :  28.9  move :  22  time : 30.8660001755 seconds ---
+
+Iteration =  311
+Goal! :  28.9  move :  22  time : 31.4340000153 seconds ---
+
+Iteration =  312
+Goal! :  28.9  move :  22  time : 31.986000061 seconds ---
+
+Iteration =  313
+Goal! :  28.9  move :  22  time : 32.5540001392 seconds ---
+
+Iteration =  314
+Goal! :  28.9  move :  22  time : 33.0850000381 seconds ---
+
+Iteration =  315
+Goal! :  28.9  move :  22  time : 33.6190001965 seconds ---
+
+Iteration =  316
+Goal! :  28.9  move :  22  time : 34.1630001068 seconds ---
+
+Iteration =  317
+Goal! :  28.9  move :  22  time : 34.7110002041 seconds ---
+
+Iteration =  318
+Goal! :  28.9  move :  22  time : 35.253000021 seconds ---
+
+Iteration =  319
+Goal! :  28.9  move :  22  time : 35.7980000973 seconds ---
+
+Iteration =  320
+Goal! :  28.9  move :  22  time : 36.3380000591 seconds ---
+
+Iteration =  321
+Goal! :  28.9  move :  22  time : 36.875 seconds ---
+
+Iteration =  322
+Goal! :  28.9  move :  22  time : 37.4170000553 seconds ---
+
+Iteration =  323
+Goal! :  28.9  move :  22  time : 37.9550001621 seconds ---
+
+Iteration =  324
+Goal! :  28.9  move :  22  time : 38.5110001564 seconds ---
+
+Iteration =  325
+Goal! :  28.9  move :  22  time : 39.0530002117 seconds ---
+
+Iteration =  326
+Goal! :  28.9  move :  22  time : 39.5800001621 seconds ---
+
+Iteration =  327
+Goal! :  28.9  move :  22  time : 40.1130001545 seconds ---
+
+Iteration =  328
+Goal! :  28.9  move :  22  time : 40.6490001678 seconds ---
+
+Iteration =  329
+Goal! :  28.9  move :  22  time : 41.1870000362 seconds ---
+
+Iteration =  330
+Goal! :  28.9  move :  22  time : 41.7380001545 seconds ---
+
+Iteration =  331
+Goal! :  28.9  move :  22  time : 42.2730000019 seconds ---
+
+Iteration =  332
+Goal! :  28.9  move :  22  time : 42.8240001202 seconds ---
+
+Iteration =  333
+Goal! :  28.9  move :  22  time : 43.364000082 seconds ---
+
+Iteration =  334
+Goal! :  28.9  move :  22  time : 43.9050002098 seconds ---
+
+Iteration =  335
+Goal! :  28.9  move :  22  time : 44.4480001926 seconds ---
+
+Iteration =  336
+Goal! :  28.9  move :  22  time : 44.9960000515 seconds ---
+
+Iteration =  337
+Goal! :  28.9  move :  22  time : 45.5490000248 seconds ---
+
+Iteration =  338
+Goal! :  28.9  move :  22  time : 46.0700001717 seconds ---
+
+Iteration =  339
+Goal! :  28.9  move :  22  time : 46.623000145 seconds ---
+
+Iteration =  340
+Goal! :  28.9  move :  22  time : 47.1550002098 seconds ---
+
+Iteration =  341
+Goal! :  28.9  move :  22  time : 47.6960000992 seconds ---
+
+Iteration =  342
+Goal! :  28.9  move :  22  time : 48.231000185 seconds ---
+
+Iteration =  343
+Goal! :  28.9  move :  22  time : 48.7580001354 seconds ---
+
+Iteration =  344
+Goal! :  28.9  move :  22  time : 49.2990000248 seconds ---
+
+Iteration =  345
+Goal! :  28.9  move :  22  time : 49.8420000076 seconds ---
+
+Iteration =  346
+Goal! :  28.9  move :  22  time : 50.3720002174 seconds ---
+
+Iteration =  347
+Goal! :  28.9  move :  22  time : 50.9040000439 seconds ---
+
+Iteration =  348
+Goal! :  28.9  move :  22  time : 51.4370000362 seconds ---
+
+Iteration =  349
+Goal! :  28.9  move :  22  time : 51.9690001011 seconds ---
+
+Iteration =  350
+Goal! :  28.9  move :  22  time : 52.5220000744 seconds ---
+
+Iteration =  351
+Goal! :  28.9  move :  22  time : 53.0540001392 seconds ---
+
+Iteration =  352
+Goal! :  28.9  move :  22  time : 53.5870001316 seconds ---
+
+Iteration =  353
+Goal! :  28.9  move :  22  time : 54.120000124 seconds ---
+
+Iteration =  354
+Goal! :  28.9  move :  22  time : 54.6590001583 seconds ---
+
+Iteration =  355
+Goal! :  28.9  move :  22  time : 55.1980001926 seconds ---
+
+Iteration =  356
+Goal! :  28.9  move :  22  time : 55.728000164 seconds ---
+
+Iteration =  357
+Goal! :  28.9  move :  22  time : 56.2690000534 seconds ---
+
+Iteration =  358
+Goal! :  28.9  move :  22  time : 56.8030002117 seconds ---
+
+Iteration =  359
+Goal! :  28.9  move :  22  time : 57.3430001736 seconds ---
+
+Iteration =  360
+Goal! :  28.9  move :  22  time : 57.8990001678 seconds ---
+
+Iteration =  361
+Goal! :  28.9  move :  22  time : 58.4309999943 seconds ---
+
+Iteration =  362
+Goal! :  28.9  move :  22  time : 58.981000185 seconds ---
+
+Iteration =  363
+Goal! :  28.9  move :  22  time : 59.5110001564 seconds ---
+
+Iteration =  364
+Goal! :  28.9  move :  22  time : 60.0630002022 seconds ---
+
+Iteration =  365
+Goal! :  28.9  move :  22  time : 60.609000206 seconds ---
+
+Iteration =  366
+Goal! :  28.9  move :  22  time : 61.1610000134 seconds ---
+
+Iteration =  367
+Goal! :  28.9  move :  22  time : 61.7100000381 seconds ---
+
+Iteration =  368
+Goal! :  28.9  move :  22  time : 62.2620000839 seconds ---
+
+Iteration =  369
+Goal! :  28.9  move :  22  time : 62.8110001087 seconds ---
+
+Iteration =  370
+Goal! :  28.9  move :  22  time : 63.3630001545 seconds ---
+
+Iteration =  371
+Goal! :  28.9  move :  22  time : 63.9090001583 seconds ---
+
+Iteration =  372
+Goal! :  28.9  move :  22  time : 64.4610002041 seconds ---
+
+Iteration =  373
+Goal! :  28.9  move :  22  time : 65.0130000114 seconds ---
+
+Iteration =  374
+Goal! :  28.9  move :  22  time : 65.5690000057 seconds ---
+
+Iteration =  375
+Goal! :  28.9  move :  22  time : 66.1210000515 seconds ---
+
+Iteration =  376
+Goal! :  28.9  move :  22  time : 66.6890001297 seconds ---
+
+Iteration =  377
+Goal! :  28.9  move :  22  time : 67.2220001221 seconds ---
+
+Iteration =  378
+Goal! :  28.9  move :  22  time : 67.7650001049 seconds ---
+
+Iteration =  379
+Goal! :  28.9  move :  22  time : 68.3020000458 seconds ---
+
+Iteration =  380
+Goal! :  28.9  move :  22  time : 68.8470001221 seconds ---
+
+Iteration =  381
+Goal! :  28.9  move :  22  time : 69.3790001869 seconds ---
+
+Iteration =  382
+Goal! :  28.9  move :  22  time : 69.9180002213 seconds ---
+
+Iteration =  383
+Goal! :  28.9  move :  22  time : 70.4480001926 seconds ---
+
+Iteration =  384
+Goal! :  28.9  move :  22  time : 70.9700000286 seconds ---
+
+Iteration =  385
+Goal! :  28.9  move :  22  time : 71.5090000629 seconds ---
+
+Iteration =  386
+Goal! :  28.9  move :  22  time : 72.0400002003 seconds ---
+
+Iteration =  387
+Goal! :  28.9  move :  22  time : 72.6000001431 seconds ---
+
+Iteration =  388
+Goal! :  28.9  move :  22  time : 73.1290001869 seconds ---
+
+Iteration =  389
+Goal! :  28.9  move :  22  time : 73.6730000973 seconds ---
+
+Iteration =  390
+Goal! :  28.9  move :  22  time : 74.2100000381 seconds ---
+
+Iteration =  391
+Goal! :  28.9  move :  22  time : 74.742000103 seconds ---
+
+Iteration =  392
+Goal! :  28.9  move :  22  time : 75.2740001678 seconds ---
+
+Iteration =  393
+Goal! :  28.9  move :  22  time : 75.8090000153 seconds ---
+
+Iteration =  394
+Goal! :  28.9  move :  22  time : 76.3470001221 seconds ---
+
+Iteration =  395
+Goal! :  28.9  move :  22  time : 76.8760001659 seconds ---
+
+Iteration =  396
+Goal! :  28.9  move :  22  time : 77.4040000439 seconds ---
+
+Iteration =  397
+Goal! :  28.9  move :  22  time : 77.9620001316 seconds ---
+
+Iteration =  398
+Goal! :  28.9  move :  22  time : 78.498000145 seconds ---
+
+Iteration =  399
+Goal! :  28.9  move :  22  time : 79.0470001698 seconds ---
+
+Iteration =  400
+Goal! :  28.9  move :  22  time : 79.5830001831 seconds ---
+
+Iteration =  401
+/n CHANGE MAZE  3
+Goal! :  13.5  move :  104  time : 4.06200003624 seconds ---
+
+Iteration =  402
+
+Iteration =  403
+Goal! :  20.2  move :  70  time : 28.3659999371 seconds ---
+
+Iteration =  404
+Goal! :  22.1  move :  64  time : 30.4989998341 seconds ---
+
+Iteration =  405
+Goal! :  20.2  move :  74  time : 33.0869998932 seconds ---
+
+Iteration =  406
+Goal! :  22.7  move :  60  time : 35.0529999733 seconds ---
+
+Iteration =  407
+Goal! :  22.8  move :  54  time : 37.007999897 seconds ---
+
+Iteration =  408
+Goal! :  25.1  move :  46  time : 38.4319999218 seconds ---
+
+Iteration =  409
+Goal! :  25.3  move :  42  time : 39.8099999428 seconds ---
+
+Iteration =  410
+Goal! :  24.2  move :  52  time : 41.4649999142 seconds ---
+
+Iteration =  411
+Goal! :  26.5  move :  30  time : 42.5769999027 seconds ---
+
+Iteration =  412
+Goal! :  25.7  move :  38  time : 43.868999958 seconds ---
+
+Iteration =  413
+Goal! :  25.5  move :  46  time : 45.2059998512 seconds ---
+
+Iteration =  414
+Goal! :  26.6  move :  34  time : 46.2839999199 seconds ---
+
+Iteration =  415
+Goal! :  27.4  move :  30  time : 47.1689999104 seconds ---
+
+Iteration =  416
+Goal! :  26.2  move :  36  time : 48.3339998722 seconds ---
+
+Iteration =  417
+Goal! :  27.8  move :  28  time : 49.1129999161 seconds ---
+
+Iteration =  418
+Goal! :  28.1  move :  26  time : 49.8289999962 seconds ---
+
+Iteration =  419
+Goal! :  27.5  move :  32  time : 50.6959998608 seconds ---
+
+Iteration =  420
+Goal! :  28.3  move :  26  time : 51.3550000191 seconds ---
+
+Iteration =  421
+Goal! :  28.4  move :  26  time : 52.0260000229 seconds ---
+
+Iteration =  422
+Goal! :  28.0  move :  28  time : 52.7829999924 seconds ---
+
+Iteration =  423
+Goal! :  28.5  move :  26  time : 53.4149999619 seconds ---
+
+Iteration =  424
+Goal! :  28.5  move :  26  time : 54.0639998913 seconds ---
+
+Iteration =  425
+Goal! :  28.5  move :  26  time : 54.6749999523 seconds ---
+
+Iteration =  426
+Goal! :  28.5  move :  26  time : 55.3079998493 seconds ---
+
+Iteration =  427
+Goal! :  28.5  move :  26  time : 55.9419999123 seconds ---
+
+Iteration =  428
+Goal! :  28.5  move :  26  time : 56.5769999027 seconds ---
+
+Iteration =  429
+Goal! :  28.5  move :  26  time : 57.2049999237 seconds ---
+
+Iteration =  430
+Goal! :  28.5  move :  26  time : 57.8369998932 seconds ---
+
+Iteration =  431
+Goal! :  28.5  move :  26  time : 58.4619998932 seconds ---
+
+Iteration =  432
+Goal! :  28.5  move :  26  time : 59.0879998207 seconds ---
+
+Iteration =  433
+Goal! :  28.5  move :  26  time : 59.7170000076 seconds ---
+
+Iteration =  434
+Goal! :  28.5  move :  26  time : 60.3469998837 seconds ---
+
+Iteration =  435
+Goal! :  28.5  move :  26  time : 60.9859998226 seconds ---
+
+Iteration =  436
+Goal! :  28.5  move :  26  time : 61.6129999161 seconds ---
+
+Iteration =  437
+Goal! :  28.5  move :  26  time : 62.2449998856 seconds ---
+
+Iteration =  438
+Goal! :  28.5  move :  26  time : 62.888999939 seconds ---
+
+Iteration =  439
+Goal! :  28.5  move :  26  time : 63.5299999714 seconds ---
+
+Iteration =  440
+Goal! :  28.5  move :  26  time : 64.1589999199 seconds ---
+
+Iteration =  441
+Goal! :  28.5  move :  26  time : 64.7829999924 seconds ---
+
+Iteration =  442
+Goal! :  28.5  move :  26  time : 65.4179999828 seconds ---
+
+Iteration =  443
+Goal! :  28.5  move :  26  time : 66.0549998283 seconds ---
+
+Iteration =  444
+Goal! :  28.5  move :  26  time : 66.6799998283 seconds ---
+
+Iteration =  445
+Goal! :  28.5  move :  26  time : 67.3159999847 seconds ---
+
+Iteration =  446
+Goal! :  28.5  move :  26  time : 67.9449999332 seconds ---
+
+Iteration =  447
+Goal! :  28.5  move :  26  time : 68.5729999542 seconds ---
+
+Iteration =  448
+Goal! :  28.5  move :  26  time : 69.2100000381 seconds ---
+
+Iteration =  449
+Goal! :  28.5  move :  26  time : 69.8369998932 seconds ---
+
+Iteration =  450
+Goal! :  28.5  move :  26  time : 70.4809999466 seconds ---
+
+Iteration =  451
+Goal! :  28.5  move :  26  time : 71.1099998951 seconds ---
+
+Iteration =  452
+Goal! :  28.5  move :  26  time : 71.7319998741 seconds ---
+
+Iteration =  453
+Goal! :  28.5  move :  26  time : 72.3479998112 seconds ---
+
+Iteration =  454
+Goal! :  28.5  move :  26  time : 72.9689998627 seconds ---
+
+Iteration =  455
+Goal! :  28.5  move :  26  time : 73.5969998837 seconds ---
+
+Iteration =  456
+Goal! :  28.5  move :  26  time : 74.2339999676 seconds ---
+
+Iteration =  457
+Goal! :  28.5  move :  26  time : 74.8669998646 seconds ---
+
+Iteration =  458
+Goal! :  28.5  move :  26  time : 75.503000021 seconds ---
+
+Iteration =  459
+Goal! :  28.5  move :  26  time : 76.1309998035 seconds ---
+
+Iteration =  460
+Goal! :  28.5  move :  26  time : 76.754999876 seconds ---
+
+Iteration =  461
+Goal! :  28.5  move :  26  time : 77.3989999294 seconds ---
+
+Iteration =  462
+Goal! :  28.5  move :  26  time : 78.0460000038 seconds ---
+
+Iteration =  463
+Goal! :  28.5  move :  26  time : 78.6669998169 seconds ---
+
+Iteration =  464
+Goal! :  28.5  move :  26  time : 79.2990000248 seconds ---
+
+Iteration =  465
+Goal! :  28.5  move :  26  time : 79.9299998283 seconds ---
+
+Iteration =  466
+/n CHANGE MAZE  4
+
+Iteration =  467
+Goal! :  17.8  move :  100  time : 74.5190000534 seconds ---
+
+Iteration =  468
+Goal! :  11.2  move :  162  time : 79.1360001564 seconds ---
+
+Iteration =  469
+/n CHANGE MAZE  5
+
+Iteration =  470
+
+Iteration =  471
+Goal! :  28.0  move :  26  time : 37.7739999294 seconds ---
+
+Iteration =  472
+Goal! :  13.2  move :  140  time : 41.9790000916 seconds ---
+
+Iteration =  473
+Goal! :  28.1  move :  28  time : 42.7170000076 seconds ---
+
+Iteration =  474
+Goal! :  29.5  move :  14  time : 43.111000061 seconds ---
+
+Iteration =  475
+Goal! :  25.3  move :  54  time : 44.4839999676 seconds ---
+
+Iteration =  476
+Goal! :  29.7  move :  14  time : 44.8289999962 seconds ---
+
+Iteration =  477
+Goal! :  29.7  move :  14  time : 45.1820001602 seconds ---
+
+Iteration =  478
+Goal! :  29.7  move :  14  time : 45.5260000229 seconds ---
+
+Iteration =  479
+Goal! :  29.7  move :  14  time : 45.8600001335 seconds ---
+
+Iteration =  480
+Goal! :  29.7  move :  14  time : 46.2030000687 seconds ---
+
+Iteration =  481
+Goal! :  29.7  move :  14  time : 46.5450000763 seconds ---
+
+Iteration =  482
+Goal! :  29.7  move :  14  time : 46.8970000744 seconds ---
+
+Iteration =  483
+Goal! :  29.7  move :  14  time : 47.245000124 seconds ---
+
+Iteration =  484
+Goal! :  29.7  move :  14  time : 47.6050000191 seconds ---
+
+Iteration =  485
+Goal! :  29.7  move :  14  time : 47.9560000896 seconds ---
+
+Iteration =  486
+Goal! :  29.7  move :  14  time : 48.3080000877 seconds ---
+
+Iteration =  487
+Goal! :  29.7  move :  14  time : 48.6700000763 seconds ---
+
+Iteration =  488
+Goal! :  29.7  move :  14  time : 49.0260000229 seconds ---
+
+Iteration =  489
+Goal! :  29.7  move :  14  time : 49.370000124 seconds ---
+
+Iteration =  490
+Goal! :  29.7  move :  14  time : 49.7039999962 seconds ---
+
+Iteration =  491
+Goal! :  29.7  move :  14  time : 50.0390000343 seconds ---
+
+Iteration =  492
+Goal! :  29.7  move :  14  time : 50.3900001049 seconds ---
+
+Iteration =  493
+Goal! :  29.7  move :  14  time : 50.7380001545 seconds ---
+
+Iteration =  494
+Goal! :  29.7  move :  14  time : 51.0840001106 seconds ---
+
+Iteration =  495
+Goal! :  29.7  move :  14  time : 51.4340000153 seconds ---
+
+Iteration =  496
+Goal! :  29.7  move :  14  time : 51.7869999409 seconds ---
+
+Iteration =  497
+Goal! :  29.7  move :  14  time : 52.1370000839 seconds ---
+
+Iteration =  498
+Goal! :  29.7  move :  14  time : 52.4839999676 seconds ---
+
+Iteration =  499
+Goal! :  29.7  move :  14  time : 52.8429999352 seconds ---
+
+Iteration =  500
+Goal! :  29.7  move :  14  time : 53.2030000687 seconds ---
+
+Iteration =  501
+Goal! :  29.7  move :  14  time : 53.5570001602 seconds ---
+
+Iteration =  502
+Goal! :  29.7  move :  14  time : 53.9100000858 seconds ---
+
+Iteration =  503
+Goal! :  29.7  move :  14  time : 54.2590000629 seconds ---
+
+Iteration =  504
+Goal! :  29.7  move :  14  time : 54.6019999981 seconds ---
+
+Iteration =  505
+Goal! :  29.7  move :  14  time : 54.9509999752 seconds ---
+
+Iteration =  506
+Goal! :  29.7  move :  14  time : 55.3029999733 seconds ---
+
+Iteration =  507
+Goal! :  29.7  move :  14  time : 55.6510000229 seconds ---
+
+Iteration =  508
+Goal! :  29.7  move :  14  time : 55.9900000095 seconds ---
+
+Iteration =  509
+Goal! :  29.7  move :  14  time : 56.3400001526 seconds ---
+
+Iteration =  510
+Goal! :  29.7  move :  14  time : 56.6909999847 seconds ---
+
+Iteration =  511
+Goal! :  29.7  move :  14  time : 57.0410001278 seconds ---
+
+Iteration =  512
+Goal! :  29.7  move :  14  time : 57.3910000324 seconds ---
+
+Iteration =  513
+Goal! :  29.7  move :  14  time : 57.7369999886 seconds ---
+
+Iteration =  514
+Goal! :  29.7  move :  14  time : 58.0940001011 seconds ---
+
+Iteration =  515
+Goal! :  29.7  move :  14  time : 58.4490001202 seconds ---
+
+Iteration =  516
+Goal! :  29.7  move :  14  time : 58.8029999733 seconds ---
+
+Iteration =  517
+Goal! :  29.7  move :  14  time : 59.1530001163 seconds ---
+
+Iteration =  518
+Goal! :  29.7  move :  14  time : 59.492000103 seconds ---
+
+Iteration =  519
+Goal! :  29.7  move :  14  time : 59.8519999981 seconds ---
+
+Iteration =  520
+Goal! :  29.7  move :  14  time : 60.1990001202 seconds ---
+
+Iteration =  521
+Goal! :  29.7  move :  14  time : 60.5499999523 seconds ---
+
+Iteration =  522
+Goal! :  29.7  move :  14  time : 60.9000000954 seconds ---
+
+Iteration =  523
+Goal! :  29.7  move :  14  time : 61.2520000935 seconds ---
+
+Iteration =  524
+Goal! :  29.7  move :  14  time : 61.6019999981 seconds ---
+
+Iteration =  525
+Goal! :  29.7  move :  14  time : 61.9520001411 seconds ---
+
+Iteration =  526
+Goal! :  29.7  move :  14  time : 62.2980000973 seconds ---
+
+Iteration =  527
+Goal! :  29.7  move :  14  time : 62.6540000439 seconds ---
+
+Iteration =  528
+Goal! :  29.7  move :  14  time : 63.0069999695 seconds ---
+
+Iteration =  529
+Goal! :  29.7  move :  14  time : 63.3589999676 seconds ---
+
+Iteration =  530
+Goal! :  29.7  move :  14  time : 63.7160000801 seconds ---
+
+Iteration =  531
+Goal! :  29.7  move :  14  time : 64.0710000992 seconds ---
+
+Iteration =  532
+Goal! :  29.7  move :  14  time : 64.4149999619 seconds ---
+
+Iteration =  533
+Goal! :  29.7  move :  14  time : 64.7669999599 seconds ---
+
+Iteration =  534
+Goal! :  29.7  move :  14  time : 65.118999958 seconds ---
+
+Iteration =  535
+Goal! :  29.7  move :  14  time : 65.4630000591 seconds ---
+
+Iteration =  536
+Goal! :  29.7  move :  14  time : 65.8090000153 seconds ---
+
+Iteration =  537
+Goal! :  29.7  move :  14  time : 66.1590001583 seconds ---
+
+Iteration =  538
+Goal! :  29.7  move :  14  time : 66.5050001144 seconds ---
+
+Iteration =  539
+Goal! :  29.7  move :  14  time : 66.8529999256 seconds ---
+
+Iteration =  540
+Goal! :  29.7  move :  14  time : 67.2009999752 seconds ---
+
+Iteration =  541
+Goal! :  29.7  move :  14  time : 67.5550000668 seconds ---
+
+Iteration =  542
+Goal! :  29.7  move :  14  time : 67.9010000229 seconds ---
+
+Iteration =  543
+Goal! :  29.7  move :  14  time : 68.25 seconds ---
+
+Iteration =  544
+Goal! :  29.7  move :  14  time : 68.5959999561 seconds ---
+
+Iteration =  545
+Goal! :  29.7  move :  14  time : 68.9530000687 seconds ---
+
+Iteration =  546
+Goal! :  29.7  move :  14  time : 69.3010001183 seconds ---
+
+Iteration =  547
+Goal! :  29.7  move :  14  time : 69.6510000229 seconds ---
+
+Iteration =  548
+Goal! :  29.7  move :  14  time : 69.998000145 seconds ---
+
+Iteration =  549
+Goal! :  29.7  move :  14  time : 70.3400001526 seconds ---
+
+Iteration =  550
+Goal! :  29.7  move :  14  time : 70.6840000153 seconds ---
+
+Iteration =  551
+Goal! :  29.7  move :  14  time : 71.0340001583 seconds ---
+
+Iteration =  552
+Goal! :  29.7  move :  14  time : 71.3849999905 seconds ---
+
+Iteration =  553
+Goal! :  29.7  move :  14  time : 71.7350001335 seconds ---
+
+Iteration =  554
+Goal! :  29.7  move :  14  time : 72.0870001316 seconds ---
+
+Iteration =  555
+Goal! :  29.7  move :  14  time : 72.4390001297 seconds ---
+
+Iteration =  556
+Goal! :  29.7  move :  14  time : 72.7790000439 seconds ---
+
+Iteration =  557
+Goal! :  29.7  move :  14  time : 73.1289999485 seconds ---
+
+Iteration =  558
+Goal! :  29.7  move :  14  time : 73.4720001221 seconds ---
+
+Iteration =  559
+Goal! :  29.7  move :  14  time : 73.8280000687 seconds ---
+
+Iteration =  560
+Goal! :  29.7  move :  14  time : 74.1879999638 seconds ---
+
+Iteration =  561
+Goal! :  29.7  move :  14  time : 74.5420000553 seconds ---
+
+Iteration =  562
+Goal! :  29.7  move :  14  time : 74.8970000744 seconds ---
+
+Iteration =  563
+Goal! :  29.7  move :  14  time : 75.253000021 seconds ---
+
+Iteration =  564
+Goal! :  29.7  move :  14  time : 75.6029999256 seconds ---
+
+Iteration =  565
+Goal! :  29.7  move :  14  time : 75.9750001431 seconds ---
+
+Iteration =  566
+Goal! :  29.7  move :  14  time : 76.3199999332 seconds ---
+
+Iteration =  567
+Goal! :  29.7  move :  14  time : 76.6640000343 seconds ---
+
+Iteration =  568
+Goal! :  29.7  move :  14  time : 77.0290000439 seconds ---
+
+Iteration =  569
+Goal! :  29.7  move :  14  time : 77.381000042 seconds ---
+
+Iteration =  570
+Goal! :  29.7  move :  14  time : 77.7320001125 seconds ---
+
+Iteration =  571
+Goal! :  29.7  move :  14  time : 78.0900001526 seconds ---
+
+Iteration =  572
+Goal! :  29.7  move :  14  time : 78.4349999428 seconds ---
+
+Iteration =  573
+Goal! :  29.7  move :  14  time : 78.7840001583 seconds ---
+
+Iteration =  574
+Goal! :  29.7  move :  14  time : 79.1240000725 seconds ---
+
+Iteration =  575
+Goal! :  29.7  move :  14  time : 79.4630000591 seconds ---
+
+Iteration =  576
+Goal! :  29.7  move :  14  time : 79.8259999752 seconds ---
+
+Iteration =  577
+/n CHANGE MAZE  0
+Goal! :  14.9  move :  104  time : 3.74300003052 seconds ---
+
+Iteration =  578
+Goal! :  18.2  move :  124  time : 6.79000020027 seconds ---
+
+Iteration =  579
+Goal! :  18.6  move :  116  time : 9.72000002861 seconds ---
+
+Iteration =  580
+Goal! :  26.3  move :  48  time : 10.8630001545 seconds ---
+
+Iteration =  581
+Goal! :  21.2  move :  90  time : 13.1670000553 seconds ---
+
+Iteration =  582
+Goal! :  26.3  move :  48  time : 14.2990000248 seconds ---
+
+Iteration =  583
+Goal! :  27.0  move :  38  time : 15.2680001259 seconds ---
+
+Iteration =  584
+Goal! :  27.5  move :  26  time : 16.1370000839 seconds ---
+
+Iteration =  585
+Goal! :  29.6  move :  14  time : 16.5190000534 seconds ---
+
+Iteration =  586
+Goal! :  29.4  move :  16  time : 16.9309999943 seconds ---
+
+Iteration =  587
+Goal! :  29.4  move :  16  time : 17.3450000286 seconds ---
+
+Iteration =  588
+Goal! :  28.0  move :  24  time : 18.0960001945 seconds ---
+
+Iteration =  589
+Goal! :  29.7  move :  14  time : 18.4430000782 seconds ---
+
+Iteration =  590
+Goal! :  29.7  move :  14  time : 18.7960000038 seconds ---
+
+Iteration =  591
+Goal! :  29.7  move :  14  time : 19.1440000534 seconds ---
+
+Iteration =  592
+Goal! :  29.7  move :  14  time : 19.4869999886 seconds ---
+
+Iteration =  593
+Goal! :  29.7  move :  14  time : 19.8250000477 seconds ---
+
+Iteration =  594
+Goal! :  29.7  move :  14  time : 20.1660001278 seconds ---
+
+Iteration =  595
+Goal! :  29.7  move :  14  time : 20.5130000114 seconds ---
+
+Iteration =  596
+Goal! :  29.7  move :  14  time : 20.861000061 seconds ---
+
+Iteration =  597
+Goal! :  29.7  move :  14  time : 21.2150001526 seconds ---
+
+Iteration =  598
+Goal! :  29.7  move :  14  time : 21.5640001297 seconds ---
+
+Iteration =  599
+Goal! :  29.7  move :  14  time : 21.9110000134 seconds ---
+
+Iteration =  600
+Goal! :  29.7  move :  14  time : 22.2690000534 seconds ---
+
+Iteration =  601
+Goal! :  29.7  move :  14  time : 22.6150000095 seconds ---
+
+Iteration =  602
+Goal! :  29.7  move :  14  time : 22.9670000076 seconds ---
+
+Iteration =  603
+Goal! :  29.7  move :  14  time : 23.3120000362 seconds ---
+
+Iteration =  604
+Goal! :  29.7  move :  14  time : 23.6610000134 seconds ---
+
+Iteration =  605
+Goal! :  29.7  move :  14  time : 24.0120000839 seconds ---
+
+Iteration =  606
+Goal! :  29.7  move :  14  time : 24.3619999886 seconds ---
+
+Iteration =  607
+Goal! :  29.7  move :  14  time : 24.7030000687 seconds ---
+
+Iteration =  608
+Goal! :  29.7  move :  14  time : 25.0520000458 seconds ---
+
+Iteration =  609
+Goal! :  29.7  move :  14  time : 25.3980000019 seconds ---
+
+Iteration =  610
+Goal! :  29.7  move :  14  time : 25.748000145 seconds ---
+
+Iteration =  611
+Goal! :  29.7  move :  14  time : 26.0989999771 seconds ---
+
+Iteration =  612
