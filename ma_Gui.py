@@ -16,6 +16,8 @@ score = 1
 ma_score = 1
 restart = False
 ma_restart = False
+start_time = 0.0
+
 walk_reward = -0.1
 
 wall_count = 5
@@ -80,7 +82,7 @@ def try_move(dx, dy):
             score -= walk_reward
             score += w
             if score > 0:
-                print "Goal! : ", score
+                print "Goal! : ", score, (" time : %s seconds ---" % (time.time() - start_time))
            # else:
             #    print "Goal! : ", score
             restart = True
@@ -168,4 +170,6 @@ board.grid(row=0, column=0)
 
 
 def start_game():
+    global start_time
+    start_time = time.time()
     master.mainloop()

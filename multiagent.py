@@ -14,7 +14,9 @@ actions = ma_Gui.actions
 states = []
 Q = {}
 
-
+speed_sing = 0.02
+speed_ma = 0.001
+start_time = 0.0
 
 for i in range(ma_Gui.x):
     for j in range(ma_Gui.y):
@@ -114,7 +116,7 @@ def env_change():
         ma_Gui.env_change()
 
 def run():
-    global discount
+    global discount,speed_sing
     time.sleep(1)
     alpha = 1
     t = 1
@@ -140,7 +142,7 @@ def run():
         if ma_Gui.has_restarted():
         	count += 1
         	ma_Gui.restart_game()
-        	time.sleep(0.01)
+        	time.sleep(speed_sing)
         	t = 1.0
         	print "\nIteration = " , count         
 
@@ -148,11 +150,11 @@ def run():
         alpha = pow(t, -0.1)
 
         # SLEEP.
-        time.sleep(0.04)
+        time.sleep(speed_sing)
         
 
 def magent():
-    global discount
+    global discount,speed_ma
     time.sleep(1)
     alpha = 1
     t = 1
@@ -181,7 +183,7 @@ def magent():
         if ma_Gui.ma_has_restarted():
             count += 1
             ma_Gui.ma_restart_game()
-            time.sleep(0.01)
+            time.sleep(speed_ma)
             t = 1.0
             #print "\nIteration = " , count
                        
@@ -190,7 +192,7 @@ def magent():
         alpha = pow(t, -0.1)
 
         # SLEEP.
-        time.sleep(0.006)
+        time.sleep(speed_ma)
         
         
 
